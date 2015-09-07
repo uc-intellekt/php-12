@@ -44,6 +44,4 @@ if ($totalPrice >= 1000 or $totalPrice == 500) {
 	echo 'Your discount: 5%<br>';
 }
 
-// Arrays
-
 ?>
