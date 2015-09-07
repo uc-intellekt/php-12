@@ -31,7 +31,7 @@ $isBlocked = false;
 if ($isBlocked) {
 	echo "$name, you are blocked!<br>";
 } else {
-	echo "$name, welcome!<br>";
+	echo "$name, welcome!!!<br>";
 }
 
 if ($totalPrice >= 1000 or $totalPrice == 500) {
